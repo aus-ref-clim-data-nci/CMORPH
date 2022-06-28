@@ -1,0 +1,70 @@
+Updated on 2022-06-28 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010100.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010200.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010300.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010400.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010500.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010600.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010700.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010800.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020010900.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011000.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011100.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011200.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011300.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011400.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011500.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011600.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011700.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011800.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020011900.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012000.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012100.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012200.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012300.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012400.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012500.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012600.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012700.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012800.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020012900.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020013000.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020100.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020200.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020300.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020400.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020500.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020600.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020700.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020800.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020020900.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021000.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021100.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021200.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021300.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021400.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021500.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021600.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021700.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021800.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020021900.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022000.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022100.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022200.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022300.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022400.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022500.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022600.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022700.nc
+/g/data/ia39/aus-ref-clim-data-nci//cmorph/data/v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022800.nc
+==========================================
+These files and problems: 
+
+Updated on 2022-06-28 by pxp581
+Updated on 2022-06-28 by pxp581
