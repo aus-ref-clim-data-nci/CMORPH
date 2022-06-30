@@ -1,7 +1,7 @@
-# NOAA CPC MORPHing technique Climate Data Record v1.0
+# CMORPH
 
 ## Overview
-CMORPH produces global precipitation analyses at very high spatial and temporal resolution. 
+The NOAA CPC MORPHing technique produces global precipitation analyses at very high spatial and temporal resolution. 
 The following description is from the [NOAA Climate Data Record CMORPH dataset page](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00948):
 
 This data set is for the bias-corrected, reprocessed CPC Morphing technique (CMORPH) high-resolution global satellite precipitation estimates. The CMORPH satellite precipitation estimates are created in two steps. First, the purely satellite-based global fields of precipitation are constructed through integrating Level 2 retrievals of instantaneous precipitation rates from all available passive microwave measurements aboard low earth orbiting platforms. Bias in these integrated satellite precipitation estimates is then removed through comparison against CPC daily gauge analysis over land and adjustment against the Global Precipitation Climatology Project (GPCP) merged analysis of pentad precipitation over ocean. 

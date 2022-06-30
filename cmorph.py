@@ -124,7 +124,7 @@ def get_filelist(yr, mns, data_dir):
         os.makedirs(f"{data_dir}/{fpath}", exist_ok=True)
         fname = f'CMORPH_V1.0_ADJ_8km-30min_{yr}{mn}DD00.nc'
         lastday = calendar.monthrange(int(yr), int(mn))[1]
-        days = ["%.2d" % i for i in range(1,lastday)]
+        days = ["%.2d" % i for i in range(1,lastday+1)]
         fmonth = [fpath+fname.replace('DD', x) for x in days] 
         flist.extend(fmonth)  
     return flist
