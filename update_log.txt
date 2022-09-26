@@ -8443,3 +8443,891 @@ v1.0/30min/8km/2021/12/CMORPH_V1.0_ADJ_8km-30min_2021123000.nc
 These files and problems: 
 
 
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/1998/01/CMORPH_V1.0_ADJ_8km-30min_1998013100.nc
+v1.0/30min/8km/1998/02/CMORPH_V1.0_ADJ_8km-30min_1998022800.nc
+v1.0/30min/8km/1998/03/CMORPH_V1.0_ADJ_8km-30min_1998033100.nc
+v1.0/30min/8km/1998/04/CMORPH_V1.0_ADJ_8km-30min_1998043000.nc
+v1.0/30min/8km/1998/05/CMORPH_V1.0_ADJ_8km-30min_1998053100.nc
+v1.0/30min/8km/1998/06/CMORPH_V1.0_ADJ_8km-30min_1998063000.nc
+v1.0/30min/8km/1998/07/CMORPH_V1.0_ADJ_8km-30min_1998073100.nc
+v1.0/30min/8km/1998/08/CMORPH_V1.0_ADJ_8km-30min_1998083100.nc
+v1.0/30min/8km/1998/09/CMORPH_V1.0_ADJ_8km-30min_1998093000.nc
+v1.0/30min/8km/1998/10/CMORPH_V1.0_ADJ_8km-30min_1998103100.nc
+v1.0/30min/8km/1998/11/CMORPH_V1.0_ADJ_8km-30min_1998113000.nc
+v1.0/30min/8km/1998/12/CMORPH_V1.0_ADJ_8km-30min_1998123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/1999/01/CMORPH_V1.0_ADJ_8km-30min_1999013100.nc
+v1.0/30min/8km/1999/02/CMORPH_V1.0_ADJ_8km-30min_1999022800.nc
+v1.0/30min/8km/1999/03/CMORPH_V1.0_ADJ_8km-30min_1999033100.nc
+v1.0/30min/8km/1999/04/CMORPH_V1.0_ADJ_8km-30min_1999043000.nc
+v1.0/30min/8km/1999/05/CMORPH_V1.0_ADJ_8km-30min_1999053100.nc
+v1.0/30min/8km/1999/06/CMORPH_V1.0_ADJ_8km-30min_1999063000.nc
+v1.0/30min/8km/1999/07/CMORPH_V1.0_ADJ_8km-30min_1999073100.nc
+v1.0/30min/8km/1999/08/CMORPH_V1.0_ADJ_8km-30min_1999083100.nc
+v1.0/30min/8km/1999/09/CMORPH_V1.0_ADJ_8km-30min_1999093000.nc
+v1.0/30min/8km/1999/10/CMORPH_V1.0_ADJ_8km-30min_1999103100.nc
+v1.0/30min/8km/1999/11/CMORPH_V1.0_ADJ_8km-30min_1999113000.nc
+v1.0/30min/8km/1999/12/CMORPH_V1.0_ADJ_8km-30min_1999123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2000/01/CMORPH_V1.0_ADJ_8km-30min_2000013100.nc
+v1.0/30min/8km/2000/02/CMORPH_V1.0_ADJ_8km-30min_2000022900.nc
+v1.0/30min/8km/2000/03/CMORPH_V1.0_ADJ_8km-30min_2000033100.nc
+v1.0/30min/8km/2000/04/CMORPH_V1.0_ADJ_8km-30min_2000043000.nc
+v1.0/30min/8km/2000/05/CMORPH_V1.0_ADJ_8km-30min_2000053100.nc
+v1.0/30min/8km/2000/06/CMORPH_V1.0_ADJ_8km-30min_2000063000.nc
+v1.0/30min/8km/2000/07/CMORPH_V1.0_ADJ_8km-30min_2000073100.nc
+v1.0/30min/8km/2000/08/CMORPH_V1.0_ADJ_8km-30min_2000083100.nc
+v1.0/30min/8km/2000/09/CMORPH_V1.0_ADJ_8km-30min_2000093000.nc
+v1.0/30min/8km/2000/10/CMORPH_V1.0_ADJ_8km-30min_2000103100.nc
+v1.0/30min/8km/2000/11/CMORPH_V1.0_ADJ_8km-30min_2000113000.nc
+v1.0/30min/8km/2000/12/CMORPH_V1.0_ADJ_8km-30min_2000123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2001/01/CMORPH_V1.0_ADJ_8km-30min_2001013100.nc
+v1.0/30min/8km/2001/02/CMORPH_V1.0_ADJ_8km-30min_2001022800.nc
+v1.0/30min/8km/2001/03/CMORPH_V1.0_ADJ_8km-30min_2001033100.nc
+v1.0/30min/8km/2001/04/CMORPH_V1.0_ADJ_8km-30min_2001043000.nc
+v1.0/30min/8km/2001/05/CMORPH_V1.0_ADJ_8km-30min_2001053100.nc
+v1.0/30min/8km/2001/06/CMORPH_V1.0_ADJ_8km-30min_2001063000.nc
+v1.0/30min/8km/2001/07/CMORPH_V1.0_ADJ_8km-30min_2001073100.nc
+v1.0/30min/8km/2001/08/CMORPH_V1.0_ADJ_8km-30min_2001083100.nc
+v1.0/30min/8km/2001/09/CMORPH_V1.0_ADJ_8km-30min_2001093000.nc
+v1.0/30min/8km/2001/10/CMORPH_V1.0_ADJ_8km-30min_2001103100.nc
+v1.0/30min/8km/2001/11/CMORPH_V1.0_ADJ_8km-30min_2001113000.nc
+v1.0/30min/8km/2001/12/CMORPH_V1.0_ADJ_8km-30min_2001123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2002/01/CMORPH_V1.0_ADJ_8km-30min_2002013100.nc
+v1.0/30min/8km/2002/02/CMORPH_V1.0_ADJ_8km-30min_2002022800.nc
+v1.0/30min/8km/2002/03/CMORPH_V1.0_ADJ_8km-30min_2002033100.nc
+v1.0/30min/8km/2002/04/CMORPH_V1.0_ADJ_8km-30min_2002043000.nc
+v1.0/30min/8km/2002/05/CMORPH_V1.0_ADJ_8km-30min_2002053100.nc
+v1.0/30min/8km/2002/06/CMORPH_V1.0_ADJ_8km-30min_2002063000.nc
+v1.0/30min/8km/2002/07/CMORPH_V1.0_ADJ_8km-30min_2002073100.nc
+v1.0/30min/8km/2002/08/CMORPH_V1.0_ADJ_8km-30min_2002083100.nc
+v1.0/30min/8km/2002/09/CMORPH_V1.0_ADJ_8km-30min_2002093000.nc
+v1.0/30min/8km/2002/10/CMORPH_V1.0_ADJ_8km-30min_2002103100.nc
+v1.0/30min/8km/2002/11/CMORPH_V1.0_ADJ_8km-30min_2002113000.nc
+v1.0/30min/8km/2002/12/CMORPH_V1.0_ADJ_8km-30min_2002123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2003/01/CMORPH_V1.0_ADJ_8km-30min_2003013100.nc
+v1.0/30min/8km/2003/02/CMORPH_V1.0_ADJ_8km-30min_2003022800.nc
+v1.0/30min/8km/2003/03/CMORPH_V1.0_ADJ_8km-30min_2003033100.nc
+v1.0/30min/8km/2003/04/CMORPH_V1.0_ADJ_8km-30min_2003043000.nc
+v1.0/30min/8km/2003/05/CMORPH_V1.0_ADJ_8km-30min_2003053100.nc
+v1.0/30min/8km/2003/06/CMORPH_V1.0_ADJ_8km-30min_2003063000.nc
+v1.0/30min/8km/2003/07/CMORPH_V1.0_ADJ_8km-30min_2003073100.nc
+v1.0/30min/8km/2003/08/CMORPH_V1.0_ADJ_8km-30min_2003083100.nc
+v1.0/30min/8km/2003/09/CMORPH_V1.0_ADJ_8km-30min_2003093000.nc
+v1.0/30min/8km/2003/10/CMORPH_V1.0_ADJ_8km-30min_2003103100.nc
+v1.0/30min/8km/2003/11/CMORPH_V1.0_ADJ_8km-30min_2003113000.nc
+v1.0/30min/8km/2003/12/CMORPH_V1.0_ADJ_8km-30min_2003123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2004/01/CMORPH_V1.0_ADJ_8km-30min_2004013100.nc
+v1.0/30min/8km/2004/02/CMORPH_V1.0_ADJ_8km-30min_2004022900.nc
+v1.0/30min/8km/2004/03/CMORPH_V1.0_ADJ_8km-30min_2004033100.nc
+v1.0/30min/8km/2004/04/CMORPH_V1.0_ADJ_8km-30min_2004043000.nc
+v1.0/30min/8km/2004/05/CMORPH_V1.0_ADJ_8km-30min_2004053100.nc
+v1.0/30min/8km/2004/06/CMORPH_V1.0_ADJ_8km-30min_2004063000.nc
+v1.0/30min/8km/2004/07/CMORPH_V1.0_ADJ_8km-30min_2004073100.nc
+v1.0/30min/8km/2004/08/CMORPH_V1.0_ADJ_8km-30min_2004083100.nc
+v1.0/30min/8km/2004/09/CMORPH_V1.0_ADJ_8km-30min_2004093000.nc
+v1.0/30min/8km/2004/10/CMORPH_V1.0_ADJ_8km-30min_2004103100.nc
+v1.0/30min/8km/2004/11/CMORPH_V1.0_ADJ_8km-30min_2004113000.nc
+v1.0/30min/8km/2004/12/CMORPH_V1.0_ADJ_8km-30min_2004123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2005/01/CMORPH_V1.0_ADJ_8km-30min_2005013100.nc
+v1.0/30min/8km/2005/02/CMORPH_V1.0_ADJ_8km-30min_2005022800.nc
+v1.0/30min/8km/2005/03/CMORPH_V1.0_ADJ_8km-30min_2005033100.nc
+v1.0/30min/8km/2005/04/CMORPH_V1.0_ADJ_8km-30min_2005043000.nc
+v1.0/30min/8km/2005/05/CMORPH_V1.0_ADJ_8km-30min_2005053100.nc
+v1.0/30min/8km/2005/06/CMORPH_V1.0_ADJ_8km-30min_2005063000.nc
+v1.0/30min/8km/2005/07/CMORPH_V1.0_ADJ_8km-30min_2005073100.nc
+v1.0/30min/8km/2005/08/CMORPH_V1.0_ADJ_8km-30min_2005083100.nc
+v1.0/30min/8km/2005/09/CMORPH_V1.0_ADJ_8km-30min_2005093000.nc
+v1.0/30min/8km/2005/10/CMORPH_V1.0_ADJ_8km-30min_2005103100.nc
+v1.0/30min/8km/2005/11/CMORPH_V1.0_ADJ_8km-30min_2005113000.nc
+v1.0/30min/8km/2005/12/CMORPH_V1.0_ADJ_8km-30min_2005123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2006/01/CMORPH_V1.0_ADJ_8km-30min_2006013100.nc
+v1.0/30min/8km/2006/02/CMORPH_V1.0_ADJ_8km-30min_2006022800.nc
+v1.0/30min/8km/2006/03/CMORPH_V1.0_ADJ_8km-30min_2006033100.nc
+v1.0/30min/8km/2006/04/CMORPH_V1.0_ADJ_8km-30min_2006043000.nc
+v1.0/30min/8km/2006/05/CMORPH_V1.0_ADJ_8km-30min_2006053100.nc
+v1.0/30min/8km/2006/06/CMORPH_V1.0_ADJ_8km-30min_2006063000.nc
+v1.0/30min/8km/2006/07/CMORPH_V1.0_ADJ_8km-30min_2006073100.nc
+v1.0/30min/8km/2006/08/CMORPH_V1.0_ADJ_8km-30min_2006083100.nc
+v1.0/30min/8km/2006/09/CMORPH_V1.0_ADJ_8km-30min_2006093000.nc
+v1.0/30min/8km/2006/10/CMORPH_V1.0_ADJ_8km-30min_2006103100.nc
+v1.0/30min/8km/2006/11/CMORPH_V1.0_ADJ_8km-30min_2006113000.nc
+v1.0/30min/8km/2006/12/CMORPH_V1.0_ADJ_8km-30min_2006123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2007/01/CMORPH_V1.0_ADJ_8km-30min_2007013100.nc
+v1.0/30min/8km/2007/02/CMORPH_V1.0_ADJ_8km-30min_2007022800.nc
+v1.0/30min/8km/2007/03/CMORPH_V1.0_ADJ_8km-30min_2007033100.nc
+v1.0/30min/8km/2007/04/CMORPH_V1.0_ADJ_8km-30min_2007043000.nc
+v1.0/30min/8km/2007/05/CMORPH_V1.0_ADJ_8km-30min_2007053100.nc
+v1.0/30min/8km/2007/06/CMORPH_V1.0_ADJ_8km-30min_2007063000.nc
+v1.0/30min/8km/2007/07/CMORPH_V1.0_ADJ_8km-30min_2007073100.nc
+v1.0/30min/8km/2007/08/CMORPH_V1.0_ADJ_8km-30min_2007083100.nc
+v1.0/30min/8km/2007/09/CMORPH_V1.0_ADJ_8km-30min_2007093000.nc
+v1.0/30min/8km/2007/10/CMORPH_V1.0_ADJ_8km-30min_2007103100.nc
+v1.0/30min/8km/2007/11/CMORPH_V1.0_ADJ_8km-30min_2007113000.nc
+v1.0/30min/8km/2007/12/CMORPH_V1.0_ADJ_8km-30min_2007123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2008/01/CMORPH_V1.0_ADJ_8km-30min_2008013100.nc
+v1.0/30min/8km/2008/02/CMORPH_V1.0_ADJ_8km-30min_2008022900.nc
+v1.0/30min/8km/2008/03/CMORPH_V1.0_ADJ_8km-30min_2008033100.nc
+v1.0/30min/8km/2008/04/CMORPH_V1.0_ADJ_8km-30min_2008043000.nc
+v1.0/30min/8km/2008/05/CMORPH_V1.0_ADJ_8km-30min_2008053100.nc
+v1.0/30min/8km/2008/06/CMORPH_V1.0_ADJ_8km-30min_2008063000.nc
+v1.0/30min/8km/2008/07/CMORPH_V1.0_ADJ_8km-30min_2008073100.nc
+v1.0/30min/8km/2008/08/CMORPH_V1.0_ADJ_8km-30min_2008083100.nc
+v1.0/30min/8km/2008/09/CMORPH_V1.0_ADJ_8km-30min_2008093000.nc
+v1.0/30min/8km/2008/10/CMORPH_V1.0_ADJ_8km-30min_2008103100.nc
+v1.0/30min/8km/2008/11/CMORPH_V1.0_ADJ_8km-30min_2008113000.nc
+v1.0/30min/8km/2008/12/CMORPH_V1.0_ADJ_8km-30min_2008123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2009/01/CMORPH_V1.0_ADJ_8km-30min_2009013100.nc
+v1.0/30min/8km/2009/02/CMORPH_V1.0_ADJ_8km-30min_2009022800.nc
+v1.0/30min/8km/2009/03/CMORPH_V1.0_ADJ_8km-30min_2009033100.nc
+v1.0/30min/8km/2009/04/CMORPH_V1.0_ADJ_8km-30min_2009043000.nc
+v1.0/30min/8km/2009/05/CMORPH_V1.0_ADJ_8km-30min_2009053100.nc
+v1.0/30min/8km/2009/06/CMORPH_V1.0_ADJ_8km-30min_2009063000.nc
+v1.0/30min/8km/2009/07/CMORPH_V1.0_ADJ_8km-30min_2009073100.nc
+v1.0/30min/8km/2009/08/CMORPH_V1.0_ADJ_8km-30min_2009083100.nc
+v1.0/30min/8km/2009/09/CMORPH_V1.0_ADJ_8km-30min_2009093000.nc
+v1.0/30min/8km/2009/10/CMORPH_V1.0_ADJ_8km-30min_2009103100.nc
+v1.0/30min/8km/2009/11/CMORPH_V1.0_ADJ_8km-30min_2009113000.nc
+v1.0/30min/8km/2009/12/CMORPH_V1.0_ADJ_8km-30min_2009123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2010/01/CMORPH_V1.0_ADJ_8km-30min_2010013100.nc
+v1.0/30min/8km/2010/02/CMORPH_V1.0_ADJ_8km-30min_2010022800.nc
+v1.0/30min/8km/2010/03/CMORPH_V1.0_ADJ_8km-30min_2010033100.nc
+v1.0/30min/8km/2010/04/CMORPH_V1.0_ADJ_8km-30min_2010043000.nc
+v1.0/30min/8km/2010/05/CMORPH_V1.0_ADJ_8km-30min_2010053100.nc
+v1.0/30min/8km/2010/06/CMORPH_V1.0_ADJ_8km-30min_2010063000.nc
+v1.0/30min/8km/2010/07/CMORPH_V1.0_ADJ_8km-30min_2010073100.nc
+v1.0/30min/8km/2010/08/CMORPH_V1.0_ADJ_8km-30min_2010083100.nc
+v1.0/30min/8km/2010/09/CMORPH_V1.0_ADJ_8km-30min_2010093000.nc
+v1.0/30min/8km/2010/10/CMORPH_V1.0_ADJ_8km-30min_2010103100.nc
+v1.0/30min/8km/2010/11/CMORPH_V1.0_ADJ_8km-30min_2010113000.nc
+v1.0/30min/8km/2010/12/CMORPH_V1.0_ADJ_8km-30min_2010123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2011/01/CMORPH_V1.0_ADJ_8km-30min_2011013100.nc
+v1.0/30min/8km/2011/02/CMORPH_V1.0_ADJ_8km-30min_2011022800.nc
+v1.0/30min/8km/2011/03/CMORPH_V1.0_ADJ_8km-30min_2011033100.nc
+v1.0/30min/8km/2011/04/CMORPH_V1.0_ADJ_8km-30min_2011043000.nc
+v1.0/30min/8km/2011/05/CMORPH_V1.0_ADJ_8km-30min_2011053100.nc
+v1.0/30min/8km/2011/06/CMORPH_V1.0_ADJ_8km-30min_2011063000.nc
+v1.0/30min/8km/2011/07/CMORPH_V1.0_ADJ_8km-30min_2011073100.nc
+v1.0/30min/8km/2011/08/CMORPH_V1.0_ADJ_8km-30min_2011083100.nc
+v1.0/30min/8km/2011/09/CMORPH_V1.0_ADJ_8km-30min_2011093000.nc
+v1.0/30min/8km/2011/10/CMORPH_V1.0_ADJ_8km-30min_2011103100.nc
+v1.0/30min/8km/2011/11/CMORPH_V1.0_ADJ_8km-30min_2011113000.nc
+v1.0/30min/8km/2011/12/CMORPH_V1.0_ADJ_8km-30min_2011123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2012/01/CMORPH_V1.0_ADJ_8km-30min_2012013100.nc
+v1.0/30min/8km/2012/02/CMORPH_V1.0_ADJ_8km-30min_2012022900.nc
+v1.0/30min/8km/2012/03/CMORPH_V1.0_ADJ_8km-30min_2012033100.nc
+v1.0/30min/8km/2012/04/CMORPH_V1.0_ADJ_8km-30min_2012043000.nc
+v1.0/30min/8km/2012/05/CMORPH_V1.0_ADJ_8km-30min_2012053100.nc
+v1.0/30min/8km/2012/06/CMORPH_V1.0_ADJ_8km-30min_2012063000.nc
+v1.0/30min/8km/2012/07/CMORPH_V1.0_ADJ_8km-30min_2012073100.nc
+v1.0/30min/8km/2012/08/CMORPH_V1.0_ADJ_8km-30min_2012083100.nc
+v1.0/30min/8km/2012/09/CMORPH_V1.0_ADJ_8km-30min_2012093000.nc
+v1.0/30min/8km/2012/10/CMORPH_V1.0_ADJ_8km-30min_2012103100.nc
+v1.0/30min/8km/2012/11/CMORPH_V1.0_ADJ_8km-30min_2012113000.nc
+v1.0/30min/8km/2012/12/CMORPH_V1.0_ADJ_8km-30min_2012123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2013/01/CMORPH_V1.0_ADJ_8km-30min_2013013100.nc
+v1.0/30min/8km/2013/02/CMORPH_V1.0_ADJ_8km-30min_2013022800.nc
+v1.0/30min/8km/2013/03/CMORPH_V1.0_ADJ_8km-30min_2013033100.nc
+v1.0/30min/8km/2013/04/CMORPH_V1.0_ADJ_8km-30min_2013043000.nc
+v1.0/30min/8km/2013/05/CMORPH_V1.0_ADJ_8km-30min_2013053100.nc
+v1.0/30min/8km/2013/06/CMORPH_V1.0_ADJ_8km-30min_2013063000.nc
+v1.0/30min/8km/2013/07/CMORPH_V1.0_ADJ_8km-30min_2013073100.nc
+v1.0/30min/8km/2013/08/CMORPH_V1.0_ADJ_8km-30min_2013083100.nc
+v1.0/30min/8km/2013/09/CMORPH_V1.0_ADJ_8km-30min_2013093000.nc
+v1.0/30min/8km/2013/10/CMORPH_V1.0_ADJ_8km-30min_2013103100.nc
+v1.0/30min/8km/2013/11/CMORPH_V1.0_ADJ_8km-30min_2013113000.nc
+v1.0/30min/8km/2013/12/CMORPH_V1.0_ADJ_8km-30min_2013123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2014/01/CMORPH_V1.0_ADJ_8km-30min_2014013100.nc
+v1.0/30min/8km/2014/02/CMORPH_V1.0_ADJ_8km-30min_2014022800.nc
+v1.0/30min/8km/2014/03/CMORPH_V1.0_ADJ_8km-30min_2014033100.nc
+v1.0/30min/8km/2014/04/CMORPH_V1.0_ADJ_8km-30min_2014043000.nc
+v1.0/30min/8km/2014/05/CMORPH_V1.0_ADJ_8km-30min_2014053100.nc
+v1.0/30min/8km/2014/06/CMORPH_V1.0_ADJ_8km-30min_2014063000.nc
+v1.0/30min/8km/2014/07/CMORPH_V1.0_ADJ_8km-30min_2014073100.nc
+v1.0/30min/8km/2014/08/CMORPH_V1.0_ADJ_8km-30min_2014083100.nc
+v1.0/30min/8km/2014/09/CMORPH_V1.0_ADJ_8km-30min_2014093000.nc
+v1.0/30min/8km/2014/10/CMORPH_V1.0_ADJ_8km-30min_2014103100.nc
+v1.0/30min/8km/2014/11/CMORPH_V1.0_ADJ_8km-30min_2014113000.nc
+v1.0/30min/8km/2014/12/CMORPH_V1.0_ADJ_8km-30min_2014123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2015/01/CMORPH_V1.0_ADJ_8km-30min_2015013100.nc
+v1.0/30min/8km/2015/02/CMORPH_V1.0_ADJ_8km-30min_2015022800.nc
+v1.0/30min/8km/2015/03/CMORPH_V1.0_ADJ_8km-30min_2015033100.nc
+v1.0/30min/8km/2015/04/CMORPH_V1.0_ADJ_8km-30min_2015043000.nc
+v1.0/30min/8km/2015/05/CMORPH_V1.0_ADJ_8km-30min_2015053100.nc
+v1.0/30min/8km/2015/06/CMORPH_V1.0_ADJ_8km-30min_2015063000.nc
+v1.0/30min/8km/2015/07/CMORPH_V1.0_ADJ_8km-30min_2015073100.nc
+v1.0/30min/8km/2015/08/CMORPH_V1.0_ADJ_8km-30min_2015083100.nc
+v1.0/30min/8km/2015/09/CMORPH_V1.0_ADJ_8km-30min_2015093000.nc
+v1.0/30min/8km/2015/10/CMORPH_V1.0_ADJ_8km-30min_2015103100.nc
+v1.0/30min/8km/2015/11/CMORPH_V1.0_ADJ_8km-30min_2015113000.nc
+v1.0/30min/8km/2015/12/CMORPH_V1.0_ADJ_8km-30min_2015123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2016/01/CMORPH_V1.0_ADJ_8km-30min_2016013100.nc
+v1.0/30min/8km/2016/02/CMORPH_V1.0_ADJ_8km-30min_2016022900.nc
+v1.0/30min/8km/2016/03/CMORPH_V1.0_ADJ_8km-30min_2016033100.nc
+v1.0/30min/8km/2016/04/CMORPH_V1.0_ADJ_8km-30min_2016043000.nc
+v1.0/30min/8km/2016/05/CMORPH_V1.0_ADJ_8km-30min_2016053100.nc
+v1.0/30min/8km/2016/06/CMORPH_V1.0_ADJ_8km-30min_2016063000.nc
+v1.0/30min/8km/2016/07/CMORPH_V1.0_ADJ_8km-30min_2016073100.nc
+v1.0/30min/8km/2016/08/CMORPH_V1.0_ADJ_8km-30min_2016083100.nc
+v1.0/30min/8km/2016/09/CMORPH_V1.0_ADJ_8km-30min_2016093000.nc
+v1.0/30min/8km/2016/10/CMORPH_V1.0_ADJ_8km-30min_2016103100.nc
+v1.0/30min/8km/2016/11/CMORPH_V1.0_ADJ_8km-30min_2016113000.nc
+v1.0/30min/8km/2016/12/CMORPH_V1.0_ADJ_8km-30min_2016123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2017/01/CMORPH_V1.0_ADJ_8km-30min_2017013100.nc
+v1.0/30min/8km/2017/02/CMORPH_V1.0_ADJ_8km-30min_2017022800.nc
+v1.0/30min/8km/2017/03/CMORPH_V1.0_ADJ_8km-30min_2017033100.nc
+v1.0/30min/8km/2017/04/CMORPH_V1.0_ADJ_8km-30min_2017043000.nc
+v1.0/30min/8km/2017/05/CMORPH_V1.0_ADJ_8km-30min_2017053100.nc
+v1.0/30min/8km/2017/06/CMORPH_V1.0_ADJ_8km-30min_2017063000.nc
+v1.0/30min/8km/2017/07/CMORPH_V1.0_ADJ_8km-30min_2017073100.nc
+v1.0/30min/8km/2017/08/CMORPH_V1.0_ADJ_8km-30min_2017083100.nc
+v1.0/30min/8km/2017/09/CMORPH_V1.0_ADJ_8km-30min_2017093000.nc
+v1.0/30min/8km/2017/10/CMORPH_V1.0_ADJ_8km-30min_2017103100.nc
+v1.0/30min/8km/2017/11/CMORPH_V1.0_ADJ_8km-30min_2017113000.nc
+v1.0/30min/8km/2017/12/CMORPH_V1.0_ADJ_8km-30min_2017123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2018/01/CMORPH_V1.0_ADJ_8km-30min_2018013100.nc
+v1.0/30min/8km/2018/02/CMORPH_V1.0_ADJ_8km-30min_2018022800.nc
+v1.0/30min/8km/2018/03/CMORPH_V1.0_ADJ_8km-30min_2018033100.nc
+v1.0/30min/8km/2018/04/CMORPH_V1.0_ADJ_8km-30min_2018043000.nc
+v1.0/30min/8km/2018/05/CMORPH_V1.0_ADJ_8km-30min_2018053100.nc
+v1.0/30min/8km/2018/06/CMORPH_V1.0_ADJ_8km-30min_2018063000.nc
+v1.0/30min/8km/2018/07/CMORPH_V1.0_ADJ_8km-30min_2018073100.nc
+v1.0/30min/8km/2018/08/CMORPH_V1.0_ADJ_8km-30min_2018083100.nc
+v1.0/30min/8km/2018/09/CMORPH_V1.0_ADJ_8km-30min_2018093000.nc
+v1.0/30min/8km/2018/10/CMORPH_V1.0_ADJ_8km-30min_2018103100.nc
+v1.0/30min/8km/2018/11/CMORPH_V1.0_ADJ_8km-30min_2018113000.nc
+v1.0/30min/8km/2018/12/CMORPH_V1.0_ADJ_8km-30min_2018123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2019/01/CMORPH_V1.0_ADJ_8km-30min_2019013100.nc
+v1.0/30min/8km/2019/02/CMORPH_V1.0_ADJ_8km-30min_2019022800.nc
+v1.0/30min/8km/2019/03/CMORPH_V1.0_ADJ_8km-30min_2019033100.nc
+v1.0/30min/8km/2019/04/CMORPH_V1.0_ADJ_8km-30min_2019043000.nc
+v1.0/30min/8km/2019/05/CMORPH_V1.0_ADJ_8km-30min_2019053100.nc
+v1.0/30min/8km/2019/06/CMORPH_V1.0_ADJ_8km-30min_2019063000.nc
+v1.0/30min/8km/2019/07/CMORPH_V1.0_ADJ_8km-30min_2019073100.nc
+v1.0/30min/8km/2019/08/CMORPH_V1.0_ADJ_8km-30min_2019083100.nc
+v1.0/30min/8km/2019/09/CMORPH_V1.0_ADJ_8km-30min_2019093000.nc
+v1.0/30min/8km/2019/10/CMORPH_V1.0_ADJ_8km-30min_2019103100.nc
+v1.0/30min/8km/2019/11/CMORPH_V1.0_ADJ_8km-30min_2019113000.nc
+v1.0/30min/8km/2019/12/CMORPH_V1.0_ADJ_8km-30min_2019123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2020/01/CMORPH_V1.0_ADJ_8km-30min_2020013100.nc
+v1.0/30min/8km/2020/02/CMORPH_V1.0_ADJ_8km-30min_2020022900.nc
+v1.0/30min/8km/2020/03/CMORPH_V1.0_ADJ_8km-30min_2020033100.nc
+v1.0/30min/8km/2020/04/CMORPH_V1.0_ADJ_8km-30min_2020043000.nc
+v1.0/30min/8km/2020/05/CMORPH_V1.0_ADJ_8km-30min_2020053100.nc
+v1.0/30min/8km/2020/06/CMORPH_V1.0_ADJ_8km-30min_2020063000.nc
+v1.0/30min/8km/2020/07/CMORPH_V1.0_ADJ_8km-30min_2020073100.nc
+v1.0/30min/8km/2020/08/CMORPH_V1.0_ADJ_8km-30min_2020083100.nc
+v1.0/30min/8km/2020/09/CMORPH_V1.0_ADJ_8km-30min_2020093000.nc
+v1.0/30min/8km/2020/10/CMORPH_V1.0_ADJ_8km-30min_2020103100.nc
+v1.0/30min/8km/2020/11/CMORPH_V1.0_ADJ_8km-30min_2020113000.nc
+v1.0/30min/8km/2020/12/CMORPH_V1.0_ADJ_8km-30min_2020123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-06-29 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+v1.0/30min/8km/2021/01/CMORPH_V1.0_ADJ_8km-30min_2021013100.nc
+v1.0/30min/8km/2021/02/CMORPH_V1.0_ADJ_8km-30min_2021022800.nc
+v1.0/30min/8km/2021/03/CMORPH_V1.0_ADJ_8km-30min_2021033100.nc
+v1.0/30min/8km/2021/04/CMORPH_V1.0_ADJ_8km-30min_2021043000.nc
+v1.0/30min/8km/2021/05/CMORPH_V1.0_ADJ_8km-30min_2021053100.nc
+v1.0/30min/8km/2021/06/CMORPH_V1.0_ADJ_8km-30min_2021063000.nc
+v1.0/30min/8km/2021/07/CMORPH_V1.0_ADJ_8km-30min_2021073100.nc
+v1.0/30min/8km/2021/08/CMORPH_V1.0_ADJ_8km-30min_2021083100.nc
+v1.0/30min/8km/2021/09/CMORPH_V1.0_ADJ_8km-30min_2021093000.nc
+v1.0/30min/8km/2021/10/CMORPH_V1.0_ADJ_8km-30min_2021103100.nc
+v1.0/30min/8km/2021/11/CMORPH_V1.0_ADJ_8km-30min_2021113000.nc
+v1.0/30min/8km/2021/12/CMORPH_V1.0_ADJ_8km-30min_2021123100.nc
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-07-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-08-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
+Updated on 2022-09-15 by pxp581
+==========================================
+Summary
+==========================================
+These files were updated: 
+==========================================
+These are new files: 
+==========================================
+These files and problems: 
+
+
+
